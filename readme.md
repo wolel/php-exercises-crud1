@@ -1,4 +1,4 @@
-#PDO - Partie 1 : Lire des données
+#Mysqli - Partie 1 : Lire des données
 
 **Exécuter le script colyseum.sql avant de commencer. Tous les résultats devront être afficher dans une page index.php.**
 
