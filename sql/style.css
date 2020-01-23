@@ -1,7 +1,6 @@
 body{
     font-family: "Open Sans", serif;
-    width: 700px;
-
+width: 100%;
 }
 #glyph {
     font-size: 20px;
@@ -17,5 +16,6 @@ h2{
     background-color: #1ed760;
     padding: 20px;
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 }
+
